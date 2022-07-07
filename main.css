@@ -324,13 +324,13 @@
     letter-spacing: 0;
     position: absolute;
     top: 330px;
-    width: 550px;
+    width: 1000px;
 }
 
 .span2 {
     color: var(--black);
     font-family: var(--font-family-heebo);
-    font-size: var(--font-size-xxs);
+    font-size: 15px;
     font-weight: 400;
 }
 
@@ -603,7 +603,7 @@
 .bottom-1 {
     height: 580px;
     margin-right: 38px;
-    margin-top: 160x;
+    margin-top: 20px;
     object-fit: cover;
     width: 1144px;
     z-index: 12;
@@ -836,6 +836,7 @@
 }
 
 .line-10 {
+    background-color: #6f6c6c;
     height: 1px;
     margin-left: 2px;
     margin-top: 10px;
